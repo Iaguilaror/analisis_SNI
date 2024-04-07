@@ -1,0 +1,1577 @@
+year,nobilis,cambio,miembros
+2000,ARQ.,primer ingreso,4
+2000,BIOL.,primer ingreso,41
+2000,DR.,primer ingreso,4856
+2000,DRA.,primer ingreso,1813
+2000,FIS.,primer ingreso,3
+2000,ING.,primer ingreso,25
+2000,LIC.,primer ingreso,36
+2000,M EN C.,primer ingreso,1
+2000,M. C.,primer ingreso,1
+2000,M. EN A,primer ingreso,1
+2000,M. EN B.,primer ingreso,2
+2000,M. EN C,primer ingreso,13
+2000,M. EN C.,primer ingreso,119
+2000,M. EN I,primer ingreso,2
+2000,M. EN I.,primer ingreso,7
+2000,M. I.,primer ingreso,1
+2000,M.C.,primer ingreso,6
+2000,M.EN C.,primer ingreso,57
+2000,M.I.,primer ingreso,1
+2000,M.I.Q.,primer ingreso,1
+2000,M.V.Z.,primer ingreso,1
+2000,MED,primer ingreso,75
+2000,MED.,primer ingreso,52
+2000,MED. ESP.,primer ingreso,1
+2000,MTR,primer ingreso,11
+2000,MTR0.,primer ingreso,1
+2000,MTRA.,primer ingreso,25
+2000,MTRO.,primer ingreso,72
+2000,Maestría,primer ingreso,1
+2000,No disponibe,primer ingreso,2
+2000,PSIC.,primer ingreso,1
+2000,Q. F. B.,primer ingreso,2
+2000,Q.B.P.,primer ingreso,1
+2000,Q.F.B,primer ingreso,1
+2000,QUIM.,primer ingreso,26
+2001,ARQ.,primer ingreso,1
+2001,ARQ.,se mantiene,4
+2001,BIOL.,primer ingreso,6
+2001,BIOL.,perdio SNI,5
+2001,BIOL.,se mantiene,34
+2001,BIOL.,sube nivel,2
+2001,DR.,primer ingreso,687
+2001,DR.,perdio SNI,223
+2001,DR.,baja nivel,8
+2001,DR.,se mantiene,4258
+2001,DR.,sube nivel,367
+2001,DRA.,primer ingreso,306
+2001,DRA.,perdio SNI,92
+2001,DRA.,baja nivel,2
+2001,DRA.,se mantiene,1560
+2001,DRA.,sube nivel,159
+2001,FIS.,se mantiene,3
+2001,ING.,baja nivel,1
+2001,ING.,se mantiene,24
+2001,LIC.,primer ingreso,10
+2001,LIC.,perdio SNI,4
+2001,LIC.,se mantiene,30
+2001,LIC.,sube nivel,2
+2001,M EN C.,se mantiene,1
+2001,M. C.,se mantiene,1
+2001,M. EN A,se mantiene,1
+2001,M. EN B.,perdio SNI,1
+2001,M. EN B.,se mantiene,1
+2001,M. EN C,baja nivel,1
+2001,M. EN C,se mantiene,11
+2001,M. EN C,sube nivel,1
+2001,M. EN C.,primer ingreso,14
+2001,M. EN C.,perdio SNI,29
+2001,M. EN C.,se mantiene,81
+2001,M. EN C.,sube nivel,9
+2001,M. EN I,se mantiene,2
+2001,M. EN I.,perdio SNI,1
+2001,M. EN I.,se mantiene,6
+2001,M. I.,se mantiene,1
+2001,M.C.,se mantiene,6
+2001,M.EN C.,primer ingreso,14
+2001,M.EN C.,perdio SNI,3
+2001,M.EN C.,se mantiene,44
+2001,M.EN C.,sube nivel,10
+2001,M.I.,se mantiene,1
+2001,M.I.Q.,se mantiene,1
+2001,M.V.Z.,se mantiene,1
+2001,MED,primer ingreso,2
+2001,MED,perdio SNI,2
+2001,MED,se mantiene,69
+2001,MED,sube nivel,4
+2001,MED.,primer ingreso,3
+2001,MED.,perdio SNI,7
+2001,MED.,se mantiene,41
+2001,MED.,sube nivel,4
+2001,MED. ESP.,se mantiene,1
+2001,MTR,primer ingreso,1
+2001,MTR,perdio SNI,1
+2001,MTR,se mantiene,8
+2001,MTR,sube nivel,2
+2001,MTR0.,se mantiene,1
+2001,MTRA.,primer ingreso,2
+2001,MTRA.,perdio SNI,3
+2001,MTRA.,se mantiene,22
+2001,MTRO.,primer ingreso,1
+2001,MTRO.,perdio SNI,11
+2001,MTRO.,baja nivel,1
+2001,MTRO.,se mantiene,53
+2001,MTRO.,sube nivel,7
+2001,Maestría,primer ingreso,3
+2001,Maestría,se mantiene,1
+2001,No disponibe,primer ingreso,7
+2001,No disponibe,se mantiene,2
+2001,PSIC.,perdio SNI,1
+2001,Q. F. B.,se mantiene,2
+2001,Q.B.P.,se mantiene,1
+2001,Q.F.B,se mantiene,1
+2001,QUIM.,primer ingreso,2
+2001,QUIM.,perdio SNI,1
+2001,QUIM.,se mantiene,22
+2001,QUIM.,sube nivel,3
+2002,ARQ.,primer ingreso,4
+2002,ARQ.,se mantiene,4
+2002,ARQ.,sube nivel,1
+2002,BIOL.,primer ingreso,8
+2002,BIOL.,perdio SNI,1
+2002,BIOL.,se mantiene,39
+2002,BIOL.,sube nivel,2
+2002,DR.,primer ingreso,978
+2002,DR.,perdio SNI,223
+2002,DR.,reingreso,38
+2002,DR.,baja nivel,20
+2002,DR.,se mantiene,4670
+2002,DR.,sube nivel,407
+2002,DRA.,primer ingreso,472
+2002,DRA.,perdio SNI,95
+2002,DRA.,reingreso,14
+2002,DRA.,baja nivel,5
+2002,DRA.,se mantiene,1738
+2002,DRA.,sube nivel,189
+2002,FIS.,se mantiene,3
+2002,ING.,primer ingreso,2
+2002,ING.,baja nivel,1
+2002,ING.,se mantiene,24
+2002,LIC.,primer ingreso,16
+2002,LIC.,perdio SNI,1
+2002,LIC.,se mantiene,39
+2002,LIC.,sube nivel,2
+2002,M EN C.,perdio SNI,1
+2002,M. C.,se mantiene,1
+2002,M. EN A,se mantiene,1
+2002,M. EN B.,perdio SNI,1
+2002,M. EN C,se mantiene,13
+2002,M. EN C.,primer ingreso,15
+2002,M. EN C.,perdio SNI,20
+2002,M. EN C.,reingreso,3
+2002,M. EN C.,baja nivel,1
+2002,M. EN C.,se mantiene,75
+2002,M. EN C.,sube nivel,8
+2002,M. EN I,se mantiene,2
+2002,M. EN I.,perdio SNI,1
+2002,M. EN I.,se mantiene,4
+2002,M. EN I.,sube nivel,1
+2002,M. I.,se mantiene,1
+2002,M.C.,perdio SNI,3
+2002,M.C.,se mantiene,3
+2002,M.EN C.,primer ingreso,5
+2002,M.EN C.,perdio SNI,2
+2002,M.EN C.,se mantiene,62
+2002,M.EN C.,sube nivel,4
+2002,M.I.,perdio SNI,1
+2002,M.I.Q.,se mantiene,1
+2002,M.V.Z.,perdio SNI,1
+2002,MED,primer ingreso,5
+2002,MED,perdio SNI,1
+2002,MED,reingreso,1
+2002,MED,baja nivel,1
+2002,MED,se mantiene,69
+2002,MED,sube nivel,4
+2002,MED.,primer ingreso,5
+2002,MED.,perdio SNI,5
+2002,MED.,reingreso,1
+2002,MED.,se mantiene,39
+2002,MED.,sube nivel,4
+2002,MED. ESP.,se mantiene,1
+2002,MTR,se mantiene,9
+2002,MTR,sube nivel,2
+2002,MTR0.,se mantiene,1
+2002,MTRA.,primer ingreso,8
+2002,MTRA.,perdio SNI,3
+2002,MTRA.,se mantiene,18
+2002,MTRA.,sube nivel,3
+2002,MTRO.,primer ingreso,9
+2002,MTRO.,perdio SNI,5
+2002,MTRO.,baja nivel,1
+2002,MTRO.,se mantiene,50
+2002,MTRO.,sube nivel,6
+2002,Maestría,primer ingreso,1
+2002,Maestría,se mantiene,4
+2002,No disponibe,primer ingreso,5
+2002,No disponibe,se mantiene,9
+2002,Q. F. B.,perdio SNI,1
+2002,Q. F. B.,se mantiene,1
+2002,Q.B.P.,se mantiene,1
+2002,Q.F.B,se mantiene,1
+2002,QUIM.,primer ingreso,6
+2002,QUIM.,perdio SNI,1
+2002,QUIM.,baja nivel,1
+2002,QUIM.,se mantiene,22
+2002,QUIM.,sube nivel,3
+2003,ARQ.,se mantiene,9
+2003,BIOL.,se mantiene,49
+2003,DR.,reingreso,1
+2003,DR.,se mantiene,6113
+2003,DRA.,perdio SNI,1
+2003,DRA.,se mantiene,2417
+2003,FIS.,se mantiene,3
+2003,ING.,se mantiene,27
+2003,LIC.,se mantiene,57
+2003,M. C.,se mantiene,1
+2003,M. EN A,se mantiene,1
+2003,M. EN C,se mantiene,13
+2003,M. EN C.,se mantiene,102
+2003,M. EN I,se mantiene,2
+2003,M. EN I.,se mantiene,5
+2003,M. I.,se mantiene,1
+2003,M.C.,se mantiene,3
+2003,M.EN C.,se mantiene,71
+2003,M.I.Q.,se mantiene,1
+2003,MED,se mantiene,80
+2003,MED.,se mantiene,49
+2003,MED. ESP.,se mantiene,1
+2003,MTR,se mantiene,11
+2003,MTR0.,se mantiene,1
+2003,MTRA.,se mantiene,29
+2003,MTRO.,se mantiene,66
+2003,Maestría,se mantiene,5
+2003,No disponibe,se mantiene,14
+2003,Q. F. B.,se mantiene,1
+2003,Q.B.P.,se mantiene,1
+2003,Q.F.B,se mantiene,1
+2003,QUIM.,se mantiene,32
+2004,ARQ.,primer ingreso,2
+2004,ARQ.,se mantiene,9
+2004,BIOL.,primer ingreso,9
+2004,BIOL.,perdio SNI,3
+2004,BIOL.,reingreso,1
+2004,BIOL.,se mantiene,45
+2004,BIOL.,sube nivel,1
+2004,DR.,primer ingreso,786
+2004,DR.,perdio SNI,197
+2004,DR.,reingreso,60
+2004,DR.,baja nivel,22
+2004,DR.,se mantiene,5550
+2004,DR.,sube nivel,345
+2004,DRA.,primer ingreso,348
+2004,DRA.,perdio SNI,70
+2004,DRA.,reingreso,38
+2004,DRA.,baja nivel,6
+2004,DRA.,se mantiene,2231
+2004,DRA.,sube nivel,110
+2004,FIS.,se mantiene,3
+2004,ING.,primer ingreso,9
+2004,ING.,se mantiene,24
+2004,ING.,sube nivel,3
+2004,LIC.,primer ingreso,4
+2004,LIC.,perdio SNI,1
+2004,LIC.,se mantiene,53
+2004,LIC.,sube nivel,3
+2004,M. C.,se mantiene,1
+2004,M. EN A,se mantiene,1
+2004,M. EN C,se mantiene,13
+2004,M. EN C.,primer ingreso,20
+2004,M. EN C.,perdio SNI,15
+2004,M. EN C.,reingreso,4
+2004,M. EN C.,se mantiene,82
+2004,M. EN C.,sube nivel,5
+2004,M. EN I,se mantiene,2
+2004,M. EN I.,primer ingreso,2
+2004,M. EN I.,perdio SNI,1
+2004,M. EN I.,se mantiene,4
+2004,M. I.,se mantiene,1
+2004,M.C.,perdio SNI,2
+2004,M.C.,se mantiene,1
+2004,M.EN C.,primer ingreso,10
+2004,M.EN C.,perdio SNI,1
+2004,M.EN C.,reingreso,1
+2004,M.EN C.,se mantiene,67
+2004,M.EN C.,sube nivel,3
+2004,M.I.Q.,se mantiene,1
+2004,MED,primer ingreso,9
+2004,MED,perdio SNI,2
+2004,MED,reingreso,1
+2004,MED,baja nivel,1
+2004,MED,se mantiene,71
+2004,MED,sube nivel,6
+2004,MED.,primer ingreso,2
+2004,MED.,perdio SNI,6
+2004,MED.,se mantiene,41
+2004,MED.,sube nivel,2
+2004,MED. ESP.,se mantiene,1
+2004,MTR,primer ingreso,3
+2004,MTR,reingreso,1
+2004,MTR,se mantiene,10
+2004,MTR,sube nivel,1
+2004,MTR0.,se mantiene,1
+2004,MTRA.,primer ingreso,3
+2004,MTRA.,perdio SNI,1
+2004,MTRA.,se mantiene,27
+2004,MTRA.,sube nivel,1
+2004,MTRO.,primer ingreso,8
+2004,MTRO.,perdio SNI,3
+2004,MTRO.,reingreso,1
+2004,MTRO.,se mantiene,57
+2004,MTRO.,sube nivel,6
+2004,Maestría,se mantiene,4
+2004,Maestría,sube nivel,1
+2004,No disponibe,primer ingreso,3
+2004,No disponibe,se mantiene,14
+2004,Q. F. B.,sube nivel,1
+2004,Q.B.P.,se mantiene,1
+2004,Q.F.B,se mantiene,1
+2004,QUIM.,primer ingreso,1
+2004,QUIM.,perdio SNI,3
+2004,QUIM.,se mantiene,28
+2004,QUIM.,sube nivel,1
+2005,ARQ.,se mantiene,10
+2005,ARQ.,sube nivel,1
+2005,BIOL.,primer ingreso,7
+2005,BIOL.,perdio SNI,1
+2005,BIOL.,se mantiene,52
+2005,BIOL.,sube nivel,3
+2005,DR.,primer ingreso,744
+2005,DR.,perdio SNI,339
+2005,DR.,reingreso,66
+2005,DR.,baja nivel,18
+2005,DR.,se mantiene,6009
+2005,DR.,sube nivel,397
+2005,DRA.,primer ingreso,341
+2005,DRA.,perdio SNI,156
+2005,DRA.,reingreso,23
+2005,DRA.,baja nivel,2
+2005,DRA.,se mantiene,2434
+2005,DRA.,sube nivel,141
+2005,FIS.,primer ingreso,1
+2005,FIS.,perdio SNI,1
+2005,FIS.,se mantiene,2
+2005,ING.,primer ingreso,1
+2005,ING.,perdio SNI,2
+2005,ING.,se mantiene,33
+2005,ING.,sube nivel,1
+2005,LIC.,primer ingreso,5
+2005,LIC.,perdio SNI,5
+2005,LIC.,baja nivel,3
+2005,LIC.,se mantiene,49
+2005,LIC.,sube nivel,3
+2005,M. C.,perdio SNI,1
+2005,M. EN A,se mantiene,1
+2005,M. EN C,se mantiene,12
+2005,M. EN C,sube nivel,1
+2005,M. EN C.,primer ingreso,9
+2005,M. EN C.,perdio SNI,21
+2005,M. EN C.,reingreso,1
+2005,M. EN C.,baja nivel,2
+2005,M. EN C.,se mantiene,86
+2005,M. EN C.,sube nivel,2
+2005,M. EN I,se mantiene,2
+2005,M. EN I.,primer ingreso,1
+2005,M. EN I.,se mantiene,6
+2005,M. I.,baja nivel,1
+2005,M.C.,se mantiene,1
+2005,M.EN C.,primer ingreso,17
+2005,M.EN C.,perdio SNI,1
+2005,M.EN C.,baja nivel,1
+2005,M.EN C.,se mantiene,72
+2005,M.EN C.,sube nivel,7
+2005,M.I.Q.,se mantiene,1
+2005,MED,primer ingreso,17
+2005,MED,reingreso,1
+2005,MED,se mantiene,79
+2005,MED,sube nivel,9
+2005,MED.,primer ingreso,7
+2005,MED.,perdio SNI,2
+2005,MED.,reingreso,1
+2005,MED.,se mantiene,42
+2005,MED.,sube nivel,1
+2005,MED. ESP.,se mantiene,1
+2005,MTR,primer ingreso,5
+2005,MTR,se mantiene,14
+2005,MTR,sube nivel,1
+2005,MTR0.,se mantiene,1
+2005,MTRA.,primer ingreso,1
+2005,MTRA.,perdio SNI,1
+2005,MTRA.,se mantiene,30
+2005,MTRO.,primer ingreso,5
+2005,MTRO.,perdio SNI,4
+2005,MTRO.,reingreso,1
+2005,MTRO.,baja nivel,1
+2005,MTRO.,se mantiene,62
+2005,MTRO.,sube nivel,5
+2005,Maestría,primer ingreso,2
+2005,Maestría,perdio SNI,3
+2005,Maestría,se mantiene,2
+2005,No disponibe,perdio SNI,8
+2005,No disponibe,se mantiene,9
+2005,Q. F. B.,se mantiene,1
+2005,Q.B.P.,se mantiene,1
+2005,Q.F.B,se mantiene,1
+2005,QUIM.,primer ingreso,4
+2005,QUIM.,se mantiene,29
+2005,QUIM.,sube nivel,1
+2006,ARQ.,primer ingreso,1
+2006,ARQ.,perdio SNI,1
+2006,ARQ.,se mantiene,9
+2006,ARQ.,sube nivel,1
+2006,BIOL.,primer ingreso,10
+2006,BIOL.,perdio SNI,3
+2006,BIOL.,reingreso,1
+2006,BIOL.,se mantiene,55
+2006,BIOL.,sube nivel,4
+2006,CP.,primer ingreso,1
+2006,DR.,primer ingreso,1008
+2006,DR.,perdio SNI,374
+2006,DR.,reingreso,108
+2006,DR.,baja nivel,21
+2006,DR.,se mantiene,6219
+2006,DR.,sube nivel,620
+2006,DRA.,primer ingreso,495
+2006,DRA.,perdio SNI,179
+2006,DRA.,reingreso,50
+2006,DRA.,baja nivel,8
+2006,DRA.,se mantiene,2515
+2006,DRA.,sube nivel,239
+2006,FIS.,se mantiene,3
+2006,ING.,primer ingreso,5
+2006,ING.,se mantiene,33
+2006,ING.,sube nivel,2
+2006,LIC.,primer ingreso,7
+2006,LIC.,perdio SNI,4
+2006,LIC.,se mantiene,51
+2006,LIC.,sube nivel,5
+2006,M. EN A,se mantiene,1
+2006,M. EN B.,reingreso,1
+2006,M. EN C,se mantiene,13
+2006,M. EN C.,primer ingreso,32
+2006,M. EN C.,perdio SNI,17
+2006,M. EN C.,reingreso,4
+2006,M. EN C.,se mantiene,80
+2006,M. EN C.,sube nivel,3
+2006,M. EN I,se mantiene,2
+2006,M. EN I.,se mantiene,7
+2006,M. I.,se mantiene,1
+2006,M.C.,se mantiene,1
+2006,M.EN C.,primer ingreso,21
+2006,M.EN C.,perdio SNI,3
+2006,M.EN C.,reingreso,1
+2006,M.EN C.,se mantiene,93
+2006,M.EN C.,sube nivel,1
+2006,M.I.Q.,perdio SNI,1
+2006,MED,primer ingreso,5
+2006,MED,reingreso,2
+2006,MED,baja nivel,2
+2006,MED,se mantiene,99
+2006,MED,sube nivel,5
+2006,MED.,primer ingreso,16
+2006,MED.,perdio SNI,7
+2006,MED.,reingreso,2
+2006,MED.,se mantiene,40
+2006,MED.,sube nivel,4
+2006,MED. ESP.,se mantiene,1
+2006,MTR,primer ingreso,1
+2006,MTR,se mantiene,18
+2006,MTR,sube nivel,2
+2006,MTR0.,perdio SNI,1
+2006,MTRA.,primer ingreso,6
+2006,MTRA.,perdio SNI,4
+2006,MTRA.,se mantiene,25
+2006,MTRA.,sube nivel,2
+2006,MTRO.,primer ingreso,14
+2006,MTRO.,perdio SNI,4
+2006,MTRO.,reingreso,2
+2006,MTRO.,baja nivel,2
+2006,MTRO.,se mantiene,63
+2006,MTRO.,sube nivel,5
+2006,Maestría,se mantiene,4
+2006,No disponibe,perdio SNI,7
+2006,No disponibe,se mantiene,2
+2006,Q. F. B.,se mantiene,1
+2006,Q.B.P.,se mantiene,1
+2006,Q.F.B,se mantiene,1
+2006,QUIM.,primer ingreso,4
+2006,QUIM.,perdio SNI,1
+2006,QUIM.,reingreso,1
+2006,QUIM.,se mantiene,31
+2006,QUIM.,sube nivel,2
+2007,ARQ.,primer ingreso,1
+2007,ARQ.,reingreso,1
+2007,ARQ.,se mantiene,11
+2007,BIOL.,primer ingreso,13
+2007,BIOL.,perdio SNI,3
+2007,BIOL.,reingreso,1
+2007,BIOL.,se mantiene,65
+2007,BIOL.,sube nivel,2
+2007,CP.,se mantiene,1
+2007,DR.,primer ingreso,960
+2007,DR.,perdio SNI,291
+2007,DR.,reingreso,125
+2007,DR.,baja nivel,1
+2007,DR.,se mantiene,7413
+2007,DR.,sube nivel,271
+2007,DRA.,primer ingreso,511
+2007,DRA.,perdio SNI,117
+2007,DRA.,reingreso,64
+2007,DRA.,se mantiene,3054
+2007,DRA.,sube nivel,136
+2007,FIS.,se mantiene,3
+2007,ING.,perdio SNI,1
+2007,ING.,se mantiene,38
+2007,ING.,sube nivel,1
+2007,LIC.,primer ingreso,4
+2007,LIC.,perdio SNI,2
+2007,LIC.,se mantiene,60
+2007,LIC.,sube nivel,1
+2007,M. EN A,se mantiene,1
+2007,M. EN B.,se mantiene,1
+2007,M. EN C,se mantiene,13
+2007,M. EN C.,primer ingreso,4
+2007,M. EN C.,perdio SNI,8
+2007,M. EN C.,reingreso,4
+2007,M. EN C.,se mantiene,110
+2007,M. EN C.,sube nivel,1
+2007,M. EN I,se mantiene,2
+2007,M. EN I.,perdio SNI,2
+2007,M. EN I.,se mantiene,4
+2007,M. EN I.,sube nivel,1
+2007,M. I.,perdio SNI,1
+2007,M.C.,se mantiene,1
+2007,M.EN C.,primer ingreso,96
+2007,M.EN C.,perdio SNI,2
+2007,M.EN C.,se mantiene,112
+2007,M.EN C.,sube nivel,2
+2007,MED,primer ingreso,24
+2007,MED,perdio SNI,1
+2007,MED,se mantiene,110
+2007,MED,sube nivel,2
+2007,MED.,primer ingreso,1
+2007,MED.,perdio SNI,3
+2007,MED.,reingreso,1
+2007,MED.,se mantiene,59
+2007,MED. ESP.,se mantiene,1
+2007,MTR,perdio SNI,1
+2007,MTR,se mantiene,20
+2007,MTRA.,primer ingreso,3
+2007,MTRA.,perdio SNI,3
+2007,MTRA.,se mantiene,30
+2007,MTRO.,primer ingreso,11
+2007,MTRO.,perdio SNI,6
+2007,MTRO.,reingreso,1
+2007,MTRO.,se mantiene,79
+2007,MTRO.,sube nivel,1
+2007,Maestría,se mantiene,4
+2007,No disponibe,perdio SNI,1
+2007,No disponibe,sube nivel,1
+2007,Q. F. B.,se mantiene,1
+2007,Q.B.P.,se mantiene,1
+2007,Q.F.B,se mantiene,1
+2007,QUIM.,primer ingreso,6
+2007,QUIM.,se mantiene,38
+2008,ARQ.,primer ingreso,3
+2008,ARQ.,se mantiene,12
+2008,ARQ.,sube nivel,1
+2008,BIOL.,primer ingreso,9
+2008,BIOL.,perdio SNI,2
+2008,BIOL.,se mantiene,71
+2008,BIOL.,sube nivel,8
+2008,CP.,primer ingreso,1
+2008,CP.,se mantiene,1
+2008,DR.,primer ingreso,916
+2008,DR.,perdio SNI,399
+2008,DR.,reingreso,129
+2008,DR.,baja nivel,17
+2008,DR.,se mantiene,7819
+2008,DR.,sube nivel,535
+2008,DRA.,primer ingreso,524
+2008,DRA.,perdio SNI,153
+2008,DRA.,reingreso,54
+2008,DRA.,baja nivel,5
+2008,DRA.,se mantiene,3379
+2008,DRA.,sube nivel,228
+2008,FIS.,perdio SNI,1
+2008,FIS.,se mantiene,2
+2008,ING.,primer ingreso,7
+2008,ING.,perdio SNI,7
+2008,ING.,se mantiene,31
+2008,ING.,sube nivel,1
+2008,LIC.,primer ingreso,7
+2008,LIC.,perdio SNI,4
+2008,LIC.,reingreso,1
+2008,LIC.,se mantiene,60
+2008,LIC.,sube nivel,1
+2008,M. EN A,se mantiene,1
+2008,M. EN B.,se mantiene,1
+2008,M. EN C,se mantiene,13
+2008,M. EN C.,primer ingreso,6
+2008,M. EN C.,perdio SNI,24
+2008,M. EN C.,baja nivel,1
+2008,M. EN C.,se mantiene,92
+2008,M. EN C.,sube nivel,2
+2008,M. EN I,se mantiene,2
+2008,M. EN I.,perdio SNI,1
+2008,M. EN I.,se mantiene,4
+2008,M.C.,se mantiene,1
+2008,M.EN C.,primer ingreso,96
+2008,M.EN C.,perdio SNI,1
+2008,M.EN C.,reingreso,4
+2008,M.EN C.,se mantiene,205
+2008,M.EN C.,sube nivel,4
+2008,MED,primer ingreso,14
+2008,MED,perdio SNI,5
+2008,MED,reingreso,2
+2008,MED,se mantiene,125
+2008,MED,sube nivel,6
+2008,MED.,primer ingreso,1
+2008,MED.,perdio SNI,10
+2008,MED.,reingreso,1
+2008,MED.,se mantiene,49
+2008,MED.,sube nivel,2
+2008,MED. ESP.,se mantiene,1
+2008,MTR,primer ingreso,7
+2008,MTR,perdio SNI,1
+2008,MTR,baja nivel,1
+2008,MTR,se mantiene,14
+2008,MTR,sube nivel,4
+2008,MTRA.,primer ingreso,22
+2008,MTRA.,perdio SNI,2
+2008,MTRA.,se mantiene,31
+2008,MTRO.,primer ingreso,8
+2008,MTRO.,perdio SNI,5
+2008,MTRO.,se mantiene,87
+2008,Maestría,perdio SNI,2
+2008,Maestría,se mantiene,2
+2008,No disponibe,se mantiene,1
+2008,Q. F. B.,perdio SNI,1
+2008,Q.B.P.,se mantiene,1
+2008,Q.F.B,se mantiene,1
+2008,QUIM.,primer ingreso,4
+2008,QUIM.,perdio SNI,3
+2008,QUIM.,reingreso,1
+2008,QUIM.,se mantiene,41
+2009,ARQ.,primer ingreso,1
+2009,ARQ.,baja nivel,1
+2009,ARQ.,se mantiene,13
+2009,ARQ.,sube nivel,2
+2009,BIOL.,primer ingreso,14
+2009,BIOL.,perdio SNI,4
+2009,BIOL.,reingreso,4
+2009,BIOL.,se mantiene,78
+2009,BIOL.,sube nivel,6
+2009,CP.,se mantiene,1
+2009,CP.,sube nivel,1
+2009,DR.,primer ingreso,899
+2009,DR.,perdio SNI,588
+2009,DR.,reingreso,149
+2009,DR.,baja nivel,28
+2009,DR.,se mantiene,8188
+2009,DR.,sube nivel,612
+2009,DRA.,primer ingreso,502
+2009,DRA.,perdio SNI,283
+2009,DRA.,reingreso,66
+2009,DRA.,baja nivel,15
+2009,DRA.,se mantiene,3659
+2009,DRA.,sube nivel,233
+2009,FIS.,se mantiene,2
+2009,ING.,primer ingreso,8
+2009,ING.,perdio SNI,2
+2009,ING.,reingreso,1
+2009,ING.,se mantiene,34
+2009,ING.,sube nivel,3
+2009,LIC.,primer ingreso,7
+2009,LIC.,perdio SNI,6
+2009,LIC.,reingreso,4
+2009,LIC.,se mantiene,60
+2009,LIC.,sube nivel,3
+2009,M. EN A,se mantiene,1
+2009,M. EN B.,perdio SNI,1
+2009,M. EN C,se mantiene,13
+2009,M. EN C.,perdio SNI,44
+2009,M. EN C.,se mantiene,57
+2009,M. EN I,se mantiene,2
+2009,M. EN I.,se mantiene,4
+2009,M.C.,perdio SNI,1
+2009,M.EN C.,primer ingreso,121
+2009,M.EN C.,perdio SNI,4
+2009,M.EN C.,reingreso,5
+2009,M.EN C.,baja nivel,3
+2009,M.EN C.,se mantiene,295
+2009,M.EN C.,sube nivel,7
+2009,MED,primer ingreso,26
+2009,MED,reingreso,4
+2009,MED,baja nivel,2
+2009,MED,se mantiene,144
+2009,MED,sube nivel,1
+2009,MED.,perdio SNI,21
+2009,MED.,se mantiene,32
+2009,MED. ESP.,se mantiene,1
+2009,MTR,primer ingreso,2
+2009,MTR,perdio SNI,1
+2009,MTR,se mantiene,24
+2009,MTR,sube nivel,1
+2009,MTRA.,primer ingreso,10
+2009,MTRA.,perdio SNI,3
+2009,MTRA.,se mantiene,47
+2009,MTRA.,sube nivel,3
+2009,MTRO.,primer ingreso,24
+2009,MTRO.,perdio SNI,12
+2009,MTRO.,reingreso,3
+2009,MTRO.,se mantiene,73
+2009,MTRO.,sube nivel,10
+2009,Maestría,se mantiene,2
+2009,No disponibe,se mantiene,1
+2009,Q.B.P.,se mantiene,1
+2009,Q.F.B,perdio SNI,1
+2009,QUIM.,primer ingreso,9
+2009,QUIM.,perdio SNI,3
+2009,QUIM.,se mantiene,41
+2009,QUIM.,sube nivel,2
+2010,ARQ.,primer ingreso,3
+2010,ARQ.,perdio SNI,1
+2010,ARQ.,se mantiene,14
+2010,ARQ.,sube nivel,2
+2010,BIOL.,primer ingreso,29
+2010,BIOL.,perdio SNI,3
+2010,BIOL.,reingreso,2
+2010,BIOL.,se mantiene,85
+2010,BIOL.,sube nivel,14
+2010,CP.,se mantiene,2
+2010,DR.,primer ingreso,1024
+2010,DR.,perdio SNI,651
+2010,DR.,reingreso,158
+2010,DR.,baja nivel,30
+2010,DR.,se mantiene,8623
+2010,DR.,sube nivel,572
+2010,DRA.,primer ingreso,509
+2010,DRA.,perdio SNI,296
+2010,DRA.,reingreso,93
+2010,DRA.,baja nivel,18
+2010,DRA.,se mantiene,3907
+2010,DRA.,sube nivel,254
+2010,FIS.,se mantiene,2
+2010,ING.,primer ingreso,10
+2010,ING.,reingreso,5
+2010,ING.,se mantiene,43
+2010,ING.,sube nivel,3
+2010,LIC.,primer ingreso,6
+2010,LIC.,perdio SNI,5
+2010,LIC.,reingreso,4
+2010,LIC.,baja nivel,1
+2010,LIC.,se mantiene,65
+2010,LIC.,sube nivel,3
+2010,M. EN A,se mantiene,1
+2010,M. EN C,se mantiene,13
+2010,M. EN C.,perdio SNI,30
+2010,M. EN C.,se mantiene,27
+2010,M. EN I,se mantiene,2
+2010,M. EN I.,perdio SNI,2
+2010,M. EN I.,se mantiene,2
+2010,M.EN C.,primer ingreso,128
+2010,M.EN C.,perdio SNI,23
+2010,M.EN C.,reingreso,6
+2010,M.EN C.,se mantiene,367
+2010,M.EN C.,sube nivel,41
+2010,MED,primer ingreso,28
+2010,MED,perdio SNI,12
+2010,MED,reingreso,2
+2010,MED,baja nivel,2
+2010,MED,se mantiene,151
+2010,MED,sube nivel,12
+2010,MED.,perdio SNI,9
+2010,MED.,se mantiene,23
+2010,MED. ESP.,perdio SNI,1
+2010,MTR,perdio SNI,1
+2010,MTR,reingreso,2
+2010,MTR,se mantiene,24
+2010,MTR,sube nivel,2
+2010,MTRA.,primer ingreso,24
+2010,MTRA.,perdio SNI,1
+2010,MTRA.,reingreso,1
+2010,MTRA.,se mantiene,57
+2010,MTRA.,sube nivel,2
+2010,MTRO.,primer ingreso,32
+2010,MTRO.,perdio SNI,8
+2010,MTRO.,reingreso,1
+2010,MTRO.,se mantiene,102
+2010,Maestría,perdio SNI,1
+2010,Maestría,se mantiene,1
+2010,No disponibe,se mantiene,1
+2010,Q.B.P.,se mantiene,1
+2010,QUIM.,primer ingreso,11
+2010,QUIM.,perdio SNI,4
+2010,QUIM.,reingreso,3
+2010,QUIM.,baja nivel,1
+2010,QUIM.,se mantiene,44
+2010,QUIM.,sube nivel,3
+2011,ARQ.,primer ingreso,3
+2011,ARQ.,perdio SNI,1
+2011,ARQ.,se mantiene,17
+2011,ARQ.,sube nivel,1
+2011,BIOL.,primer ingreso,15
+2011,BIOL.,perdio SNI,2
+2011,BIOL.,reingreso,4
+2011,BIOL.,se mantiene,122
+2011,BIOL.,sube nivel,6
+2011,CP.,primer ingreso,1
+2011,CP.,se mantiene,2
+2011,DR.,primer ingreso,914
+2011,DR.,perdio SNI,561
+2011,DR.,reingreso,216
+2011,DR.,baja nivel,32
+2011,DR.,se mantiene,9426
+2011,DR.,sube nivel,388
+2011,DRA.,primer ingreso,503
+2011,DRA.,perdio SNI,312
+2011,DRA.,reingreso,100
+2011,DRA.,baja nivel,13
+2011,DRA.,se mantiene,4263
+2011,DRA.,sube nivel,193
+2011,FIS.,se mantiene,2
+2011,ING.,primer ingreso,11
+2011,ING.,perdio SNI,1
+2011,ING.,se mantiene,59
+2011,ING.,sube nivel,1
+2011,LIC.,primer ingreso,9
+2011,LIC.,perdio SNI,2
+2011,LIC.,reingreso,3
+2011,LIC.,se mantiene,75
+2011,LIC.,sube nivel,2
+2011,M. EN A,se mantiene,1
+2011,M. EN C,se mantiene,13
+2011,M. EN C.,perdio SNI,27
+2011,M. EN I,se mantiene,2
+2011,M. EN I.,perdio SNI,2
+2011,M.EN C.,primer ingreso,141
+2011,M.EN C.,perdio SNI,35
+2011,M.EN C.,reingreso,5
+2011,M.EN C.,se mantiene,486
+2011,M.EN C.,sube nivel,21
+2011,MED,primer ingreso,25
+2011,MED,perdio SNI,9
+2011,MED,reingreso,3
+2011,MED,se mantiene,180
+2011,MED,sube nivel,6
+2011,MED.,perdio SNI,8
+2011,MED.,se mantiene,15
+2011,MTR,se mantiene,26
+2011,MTR,sube nivel,2
+2011,MTRA.,primer ingreso,19
+2011,MTRA.,perdio SNI,6
+2011,MTRA.,reingreso,1
+2011,MTRA.,se mantiene,72
+2011,MTRA.,sube nivel,6
+2011,MTRO.,primer ingreso,26
+2011,MTRO.,perdio SNI,7
+2011,MTRO.,reingreso,4
+2011,MTRO.,baja nivel,1
+2011,MTRO.,se mantiene,121
+2011,MTRO.,sube nivel,6
+2011,Maestría,se mantiene,1
+2011,No disponibe,baja nivel,1
+2011,Q.B.P.,se mantiene,1
+2011,QUIM.,primer ingreso,10
+2011,QUIM.,perdio SNI,2
+2011,QUIM.,reingreso,3
+2011,QUIM.,se mantiene,56
+2011,QUIM.,sube nivel,4
+2012,ARQ.,primer ingreso,6
+2012,ARQ.,perdio SNI,2
+2012,ARQ.,reingreso,1
+2012,ARQ.,baja nivel,1
+2012,ARQ.,se mantiene,17
+2012,ARQ.,sube nivel,1
+2012,BIOL.,primer ingreso,19
+2012,BIOL.,perdio SNI,7
+2012,BIOL.,reingreso,1
+2012,BIOL.,se mantiene,133
+2012,BIOL.,sube nivel,7
+2012,CP.,primer ingreso,2
+2012,CP.,perdio SNI,1
+2012,CP.,se mantiene,2
+2012,DR.,primer ingreso,941
+2012,DR.,perdio SNI,632
+2012,DR.,reingreso,197
+2012,DR.,baja nivel,39
+2012,DR.,se mantiene,9867
+2012,DR.,sube nivel,438
+2012,DRA.,primer ingreso,467
+2012,DRA.,perdio SNI,345
+2012,DRA.,reingreso,90
+2012,DRA.,baja nivel,13
+2012,DRA.,se mantiene,4497
+2012,DRA.,sube nivel,217
+2012,FIS.,reingreso,1
+2012,FIS.,se mantiene,2
+2012,ING.,primer ingreso,9
+2012,ING.,perdio SNI,6
+2012,ING.,se mantiene,62
+2012,ING.,sube nivel,3
+2012,LIC.,primer ingreso,4
+2012,LIC.,perdio SNI,4
+2012,LIC.,se mantiene,81
+2012,LIC.,sube nivel,4
+2012,M. EN A,se mantiene,1
+2012,M. EN C,se mantiene,13
+2012,M. EN C.,primer ingreso,3
+2012,M. EN C.,reingreso,9
+2012,M. EN I,se mantiene,2
+2012,M.EN C.,primer ingreso,137
+2012,M.EN C.,perdio SNI,48
+2012,M.EN C.,reingreso,5
+2012,M.EN C.,se mantiene,556
+2012,M.EN C.,sube nivel,49
+2012,MED,primer ingreso,29
+2012,MED,perdio SNI,19
+2012,MED,reingreso,3
+2012,MED,baja nivel,2
+2012,MED,se mantiene,180
+2012,MED,sube nivel,13
+2012,MED.,reingreso,2
+2012,MED.,se mantiene,15
+2012,MTR,primer ingreso,4
+2012,MTR,perdio SNI,1
+2012,MTR,reingreso,1
+2012,MTR,se mantiene,26
+2012,MTR,sube nivel,1
+2012,MTRA.,primer ingreso,23
+2012,MTRA.,perdio SNI,6
+2012,MTRA.,reingreso,1
+2012,MTRA.,se mantiene,90
+2012,MTRA.,sube nivel,2
+2012,MTRO.,primer ingreso,24
+2012,MTRO.,perdio SNI,8
+2012,MTRO.,baja nivel,1
+2012,MTRO.,se mantiene,141
+2012,MTRO.,sube nivel,8
+2012,Maestría,se mantiene,1
+2012,No disponibe,se mantiene,1
+2012,Q.B.P.,se mantiene,1
+2012,QUIM.,primer ingreso,16
+2012,QUIM.,perdio SNI,2
+2012,QUIM.,reingreso,2
+2012,QUIM.,se mantiene,70
+2012,QUIM.,sube nivel,1
+2013,ARQ.,perdio SNI,2
+2013,ARQ.,se mantiene,24
+2013,BIOL.,primer ingreso,41
+2013,BIOL.,perdio SNI,15
+2013,BIOL.,reingreso,3
+2013,BIOL.,se mantiene,132
+2013,BIOL.,sube nivel,13
+2013,CP.,primer ingreso,3
+2013,CP.,se mantiene,4
+2013,DR.,primer ingreso,1007
+2013,DR.,perdio SNI,759
+2013,DR.,reingreso,290
+2013,DR.,baja nivel,48
+2013,DR.,se mantiene,10017
+2013,DR.,sube nivel,658
+2013,DRA.,primer ingreso,633
+2013,DRA.,perdio SNI,339
+2013,DRA.,reingreso,154
+2013,DRA.,baja nivel,21
+2013,DRA.,se mantiene,4641
+2013,DRA.,sube nivel,283
+2013,FIS.,se mantiene,3
+2013,ING.,primer ingreso,24
+2013,ING.,perdio SNI,8
+2013,ING.,reingreso,2
+2013,ING.,se mantiene,59
+2013,ING.,sube nivel,7
+2013,LIC.,primer ingreso,10
+2013,LIC.,perdio SNI,3
+2013,LIC.,reingreso,1
+2013,LIC.,se mantiene,78
+2013,LIC.,sube nivel,8
+2013,M. EN A,se mantiene,1
+2013,M. EN C,se mantiene,13
+2013,M. EN C.,primer ingreso,7
+2013,M. EN C.,reingreso,9
+2013,M. EN C.,se mantiene,12
+2013,M. EN I,se mantiene,2
+2013,M.EN C.,primer ingreso,119
+2013,M.EN C.,perdio SNI,72
+2013,M.EN C.,reingreso,10
+2013,M.EN C.,se mantiene,631
+2013,M.EN C.,sube nivel,44
+2013,MED,primer ingreso,29
+2013,MED,perdio SNI,12
+2013,MED,se mantiene,199
+2013,MED,sube nivel,16
+2013,MED.,primer ingreso,1
+2013,MED.,perdio SNI,1
+2013,MED.,reingreso,3
+2013,MED.,se mantiene,16
+2013,MTR,perdio SNI,1
+2013,MTR,se mantiene,31
+2013,MTRA.,primer ingreso,21
+2013,MTRA.,perdio SNI,7
+2013,MTRA.,reingreso,1
+2013,MTRA.,se mantiene,99
+2013,MTRA.,sube nivel,10
+2013,MTRO.,primer ingreso,32
+2013,MTRO.,perdio SNI,9
+2013,MTRO.,reingreso,4
+2013,MTRO.,se mantiene,154
+2013,MTRO.,sube nivel,11
+2013,Maestría,primer ingreso,1
+2013,Maestría,se mantiene,1
+2013,No disponibe,se mantiene,1
+2013,Q.B.P.,se mantiene,1
+2013,QUIM.,primer ingreso,19
+2013,QUIM.,perdio SNI,5
+2013,QUIM.,reingreso,1
+2013,QUIM.,se mantiene,77
+2013,QUIM.,sube nivel,7
+2014,ARQ.,primer ingreso,7
+2014,ARQ.,se mantiene,24
+2014,BIOL.,primer ingreso,43
+2014,BIOL.,perdio SNI,9
+2014,BIOL.,reingreso,2
+2014,BIOL.,baja nivel,1
+2014,BIOL.,se mantiene,172
+2014,BIOL.,sube nivel,7
+2014,CP.,primer ingreso,3
+2014,CP.,se mantiene,7
+2014,DR.,primer ingreso,1226
+2014,DR.,perdio SNI,695
+2014,DR.,reingreso,285
+2014,DR.,baja nivel,39
+2014,DR.,se mantiene,10534
+2014,DR.,sube nivel,752
+2014,DRA.,primer ingreso,747
+2014,DRA.,perdio SNI,360
+2014,DRA.,reingreso,150
+2014,DRA.,baja nivel,20
+2014,DRA.,se mantiene,4989
+2014,DRA.,sube nivel,363
+2014,FIS.,se mantiene,3
+2014,ING.,primer ingreso,31
+2014,ING.,perdio SNI,8
+2014,ING.,se mantiene,81
+2014,ING.,sube nivel,3
+2014,LIC.,primer ingreso,16
+2014,LIC.,perdio SNI,3
+2014,LIC.,reingreso,3
+2014,LIC.,se mantiene,88
+2014,LIC.,sube nivel,6
+2014,M. EN A,se mantiene,1
+2014,M. EN C,se mantiene,13
+2014,M. EN C.,primer ingreso,6
+2014,M. EN C.,reingreso,1
+2014,M. EN C.,se mantiene,28
+2014,M. EN I,perdio SNI,1
+2014,M. EN I,se mantiene,1
+2014,M.EN C.,primer ingreso,134
+2014,M.EN C.,perdio SNI,56
+2014,M.EN C.,reingreso,15
+2014,M.EN C.,baja nivel,2
+2014,M.EN C.,se mantiene,687
+2014,M.EN C.,sube nivel,59
+2014,M.I.Q.,reingreso,1
+2014,MED,primer ingreso,28
+2014,MED,perdio SNI,12
+2014,MED,reingreso,3
+2014,MED,baja nivel,1
+2014,MED,se mantiene,221
+2014,MED,sube nivel,10
+2014,MED.,primer ingreso,3
+2014,MED.,reingreso,1
+2014,MED.,se mantiene,20
+2014,MTR,se mantiene,31
+2014,MTRA.,primer ingreso,26
+2014,MTRA.,perdio SNI,10
+2014,MTRA.,reingreso,1
+2014,MTRA.,se mantiene,107
+2014,MTRA.,sube nivel,14
+2014,MTRO.,primer ingreso,25
+2014,MTRO.,perdio SNI,13
+2014,MTRO.,reingreso,5
+2014,MTRO.,baja nivel,3
+2014,MTRO.,se mantiene,170
+2014,MTRO.,sube nivel,15
+2014,Maestría,reingreso,1
+2014,Maestría,se mantiene,2
+2014,No disponibe,se mantiene,1
+2014,Q.B.P.,se mantiene,1
+2014,QUIM.,primer ingreso,21
+2014,QUIM.,perdio SNI,6
+2014,QUIM.,reingreso,1
+2014,QUIM.,se mantiene,93
+2014,QUIM.,sube nivel,5
+2015,ARQ.,primer ingreso,3
+2015,ARQ.,perdio SNI,4
+2015,ARQ.,baja nivel,1
+2015,ARQ.,se mantiene,24
+2015,ARQ.,sube nivel,2
+2015,BIOL.,primer ingreso,4
+2015,BIOL.,perdio SNI,10
+2015,BIOL.,reingreso,1
+2015,BIOL.,se mantiene,202
+2015,BIOL.,sube nivel,13
+2015,CP.,se mantiene,9
+2015,CP.,sube nivel,1
+2015,DR.,primer ingreso,2024
+2015,DR.,perdio SNI,603
+2015,DR.,reingreso,327
+2015,DR.,baja nivel,44
+2015,DR.,se mantiene,11519
+2015,DR.,sube nivel,670
+2015,DRA.,primer ingreso,125
+2015,DRA.,perdio SNI,318
+2015,DRA.,reingreso,136
+2015,DRA.,baja nivel,25
+2015,DRA.,se mantiene,5660
+2015,DRA.,sube nivel,266
+2015,FIS.,perdio SNI,2
+2015,FIS.,se mantiene,1
+2015,ING.,primer ingreso,5
+2015,ING.,perdio SNI,9
+2015,ING.,reingreso,3
+2015,ING.,se mantiene,103
+2015,ING.,sube nivel,3
+2015,LIC.,primer ingreso,28
+2015,LIC.,perdio SNI,3
+2015,LIC.,reingreso,1
+2015,LIC.,se mantiene,108
+2015,LIC.,sube nivel,2
+2015,M. EN A,se mantiene,1
+2015,M. EN C,se mantiene,13
+2015,M. EN C.,primer ingreso,1
+2015,M. EN C.,perdio SNI,2
+2015,M. EN C.,reingreso,1
+2015,M. EN C.,se mantiene,32
+2015,M. EN C.,sube nivel,1
+2015,M. EN I,se mantiene,1
+2015,M.EN C.,primer ingreso,66
+2015,M.EN C.,perdio SNI,53
+2015,M.EN C.,reingreso,12
+2015,M.EN C.,se mantiene,780
+2015,M.EN C.,sube nivel,64
+2015,M.I.Q.,se mantiene,1
+2015,MED,primer ingreso,7
+2015,MED,perdio SNI,17
+2015,MED,reingreso,8
+2015,MED,baja nivel,1
+2015,MED,se mantiene,230
+2015,MED,sube nivel,15
+2015,MED.,primer ingreso,1
+2015,MED.,perdio SNI,2
+2015,MED.,reingreso,3
+2015,MED.,baja nivel,1
+2015,MED.,se mantiene,21
+2015,MTR,primer ingreso,210
+2015,MTR,perdio SNI,4
+2015,MTR,reingreso,2
+2015,MTR,se mantiene,20
+2015,MTR,sube nivel,7
+2015,MTRA.,primer ingreso,14
+2015,MTRA.,perdio SNI,7
+2015,MTRA.,reingreso,2
+2015,MTRA.,se mantiene,126
+2015,MTRA.,sube nivel,15
+2015,MTRO.,primer ingreso,17
+2015,MTRO.,perdio SNI,12
+2015,MTRO.,reingreso,5
+2015,MTRO.,baja nivel,1
+2015,MTRO.,se mantiene,193
+2015,MTRO.,sube nivel,12
+2015,Maestría,se mantiene,3
+2015,No disponibe,se mantiene,1
+2015,Q.B.P.,se mantiene,1
+2015,QUIM.,primer ingreso,2
+2015,QUIM.,perdio SNI,5
+2015,QUIM.,se mantiene,108
+2015,QUIM.,sube nivel,7
+2016,ARQ.,primer ingreso,1
+2016,ARQ.,reingreso,1
+2016,ARQ.,baja nivel,1
+2016,ARQ.,se mantiene,28
+2016,ARQ.,sube nivel,1
+2016,BIOL.,primer ingreso,3
+2016,BIOL.,perdio SNI,30
+2016,BIOL.,reingreso,5
+2016,BIOL.,baja nivel,1
+2016,BIOL.,se mantiene,178
+2016,BIOL.,sube nivel,11
+2016,CP.,perdio SNI,2
+2016,CP.,se mantiene,8
+2016,DR.,primer ingreso,1468
+2016,DR.,perdio SNI,791
+2016,DR.,reingreso,289
+2016,DR.,baja nivel,34
+2016,DR.,se mantiene,13134
+2016,DR.,sube nivel,625
+2016,DRA.,primer ingreso,964
+2016,DRA.,perdio SNI,427
+2016,DRA.,reingreso,135
+2016,DRA.,baja nivel,14
+2016,DRA.,se mantiene,5441
+2016,DRA.,sube nivel,330
+2016,Especialidad,primer ingreso,1
+2016,FIS.,se mantiene,1
+2016,ING.,primer ingreso,6
+2016,ING.,perdio SNI,12
+2016,ING.,reingreso,1
+2016,ING.,se mantiene,91
+2016,ING.,sube nivel,11
+2016,LIC.,primer ingreso,30
+2016,LIC.,perdio SNI,9
+2016,LIC.,reingreso,1
+2016,LIC.,se mantiene,127
+2016,LIC.,sube nivel,3
+2016,M. EN A,se mantiene,1
+2016,M. EN B.,reingreso,1
+2016,M. EN C,se mantiene,13
+2016,M. EN C.,perdio SNI,4
+2016,M. EN C.,reingreso,4
+2016,M. EN C.,se mantiene,29
+2016,M. EN C.,sube nivel,2
+2016,M. EN I,se mantiene,1
+2016,M. EN I.,reingreso,1
+2016,M.EN C.,primer ingreso,44
+2016,M.EN C.,perdio SNI,65
+2016,M.EN C.,reingreso,20
+2016,M.EN C.,se mantiene,805
+2016,M.EN C.,sube nivel,52
+2016,M.I.Q.,se mantiene,1
+2016,MED,primer ingreso,8
+2016,MED,perdio SNI,14
+2016,MED,reingreso,9
+2016,MED,baja nivel,1
+2016,MED,se mantiene,224
+2016,MED,sube nivel,22
+2016,MED.,perdio SNI,7
+2016,MED.,se mantiene,19
+2016,MTR,primer ingreso,51
+2016,MTR,se mantiene,239
+2016,MTRA.,primer ingreso,34
+2016,MTRA.,perdio SNI,12
+2016,MTRA.,reingreso,7
+2016,MTRA.,se mantiene,142
+2016,MTRA.,sube nivel,3
+2016,MTRO.,primer ingreso,56
+2016,MTRO.,perdio SNI,12
+2016,MTRO.,reingreso,8
+2016,MTRO.,se mantiene,198
+2016,MTRO.,sube nivel,18
+2016,Maestría,perdio SNI,1
+2016,Maestría,reingreso,1
+2016,Maestría,se mantiene,2
+2016,No disponibe,se mantiene,1
+2016,Q.B.P.,perdio SNI,1
+2016,QUIM.,primer ingreso,1
+2016,QUIM.,perdio SNI,8
+2016,QUIM.,reingreso,2
+2016,QUIM.,se mantiene,103
+2016,QUIM.,sube nivel,6
+2017,ARQ.,primer ingreso,1
+2017,ARQ.,perdio SNI,1
+2017,ARQ.,se mantiene,28
+2017,ARQ.,sube nivel,3
+2017,BIOL.,primer ingreso,5
+2017,BIOL.,perdio SNI,22
+2017,BIOL.,reingreso,4
+2017,BIOL.,baja nivel,1
+2017,BIOL.,se mantiene,158
+2017,BIOL.,sube nivel,17
+2017,CP.,perdio SNI,3
+2017,CP.,se mantiene,5
+2017,DR.,primer ingreso,1644
+2017,DR.,perdio SNI,822
+2017,DR.,reingreso,320
+2017,DR.,baja nivel,53
+2017,DR.,se mantiene,13944
+2017,DR.,sube nivel,731
+2017,DRA.,primer ingreso,1071
+2017,DRA.,perdio SNI,451
+2017,DRA.,reingreso,172
+2017,DRA.,baja nivel,18
+2017,DRA.,se mantiene,6043
+2017,DRA.,sube nivel,372
+2017,Especialidad,se mantiene,1
+2017,FIS.,se mantiene,1
+2017,ING.,primer ingreso,3
+2017,ING.,perdio SNI,10
+2017,ING.,reingreso,3
+2017,ING.,se mantiene,93
+2017,ING.,sube nivel,6
+2017,LIC.,primer ingreso,45
+2017,LIC.,perdio SNI,13
+2017,LIC.,reingreso,5
+2017,LIC.,baja nivel,1
+2017,LIC.,se mantiene,141
+2017,LIC.,sube nivel,6
+2017,M. EN A,se mantiene,1
+2017,M. EN B.,se mantiene,1
+2017,M. EN C,perdio SNI,1
+2017,M. EN C,se mantiene,12
+2017,M. EN C.,perdio SNI,1
+2017,M. EN C.,reingreso,2
+2017,M. EN C.,se mantiene,33
+2017,M. EN C.,sube nivel,1
+2017,M. EN I,se mantiene,1
+2017,M. EN I.,se mantiene,1
+2017,M.EN C.,primer ingreso,40
+2017,M.EN C.,perdio SNI,84
+2017,M.EN C.,reingreso,26
+2017,M.EN C.,baja nivel,1
+2017,M.EN C.,se mantiene,777
+2017,M.EN C.,sube nivel,59
+2017,M.I.Q.,se mantiene,1
+2017,MAT.,primer ingreso,1
+2017,MED,primer ingreso,6
+2017,MED,perdio SNI,7
+2017,MED,reingreso,2
+2017,MED,se mantiene,236
+2017,MED,sube nivel,21
+2017,MED.,primer ingreso,5
+2017,MED.,perdio SNI,1
+2017,MED.,reingreso,2
+2017,MED.,se mantiene,16
+2017,MED.,sube nivel,2
+2017,MTR,primer ingreso,47
+2017,MTR,reingreso,1
+2017,MTR,se mantiene,290
+2017,MTRA.,primer ingreso,48
+2017,MTRA.,perdio SNI,10
+2017,MTRA.,reingreso,7
+2017,MTRA.,se mantiene,169
+2017,MTRA.,sube nivel,7
+2017,MTRO.,primer ingreso,103
+2017,MTRO.,perdio SNI,18
+2017,MTRO.,reingreso,5
+2017,MTRO.,se mantiene,253
+2017,MTRO.,sube nivel,9
+2017,Maestría,perdio SNI,1
+2017,Maestría,se mantiene,2
+2017,No disponibe,se mantiene,1
+2017,QUIM.,primer ingreso,2
+2017,QUIM.,perdio SNI,13
+2017,QUIM.,reingreso,2
+2017,QUIM.,se mantiene,95
+2017,QUIM.,sube nivel,4
+2018,ARQ.,perdio SNI,2
+2018,ARQ.,reingreso,1
+2018,ARQ.,se mantiene,30
+2018,BIOL.,primer ingreso,1
+2018,BIOL.,perdio SNI,13
+2018,BIOL.,reingreso,5
+2018,BIOL.,se mantiene,168
+2018,BIOL.,sube nivel,4
+2018,CP.,reingreso,1
+2018,CP.,se mantiene,4
+2018,CP.,sube nivel,1
+2018,DR.,primer ingreso,1564
+2018,DR.,perdio SNI,1254
+2018,DR.,reingreso,241
+2018,DR.,baja nivel,81
+2018,DR.,se mantiene,14471
+2018,DR.,sube nivel,886
+2018,DRA.,primer ingreso,1075
+2018,DRA.,perdio SNI,342
+2018,DRA.,reingreso,145
+2018,DRA.,baja nivel,29
+2018,DRA.,se mantiene,7081
+2018,DRA.,sube nivel,224
+2018,Especialidad,se mantiene,1
+2018,FIS.,perdio SNI,1
+2018,ING.,primer ingreso,10
+2018,ING.,perdio SNI,5
+2018,ING.,reingreso,1
+2018,ING.,baja nivel,1
+2018,ING.,se mantiene,93
+2018,ING.,sube nivel,6
+2018,LIC.,primer ingreso,12
+2018,LIC.,perdio SNI,15
+2018,LIC.,reingreso,1
+2018,LIC.,se mantiene,165
+2018,LIC.,sube nivel,18
+2018,M. EN A,se mantiene,1
+2018,M. EN B.,se mantiene,1
+2018,M. EN C,perdio SNI,2
+2018,M. EN C,se mantiene,10
+2018,M. EN C.,perdio SNI,2
+2018,M. EN C.,se mantiene,33
+2018,M. EN C.,sube nivel,1
+2018,M. EN I,se mantiene,1
+2018,M. EN I.,se mantiene,1
+2018,M.EN C.,primer ingreso,29
+2018,M.EN C.,perdio SNI,64
+2018,M.EN C.,reingreso,14
+2018,M.EN C.,baja nivel,1
+2018,M.EN C.,se mantiene,791
+2018,M.EN C.,sube nivel,47
+2018,M.I.Q.,se mantiene,1
+2018,MAT.,se mantiene,1
+2018,MED,primer ingreso,4
+2018,MED,perdio SNI,8
+2018,MED,reingreso,1
+2018,MED,baja nivel,1
+2018,MED,se mantiene,244
+2018,MED,sube nivel,12
+2018,MED.,perdio SNI,3
+2018,MED.,se mantiene,22
+2018,MTR,primer ingreso,22
+2018,MTR,perdio SNI,66
+2018,MTR,se mantiene,231
+2018,MTR,sube nivel,41
+2018,MTRA.,primer ingreso,52
+2018,MTRA.,perdio SNI,15
+2018,MTRA.,baja nivel,1
+2018,MTRA.,se mantiene,207
+2018,MTRA.,sube nivel,8
+2018,MTRO.,primer ingreso,78
+2018,MTRO.,perdio SNI,18
+2018,MTRO.,reingreso,6
+2018,MTRO.,se mantiene,341
+2018,MTRO.,sube nivel,11
+2018,Maestría,se mantiene,2
+2018,No disponibe,perdio SNI,1
+2018,QUIM.,primer ingreso,1
+2018,QUIM.,perdio SNI,7
+2018,QUIM.,se mantiene,91
+2018,QUIM.,sube nivel,5
+2019,ARQ.,primer ingreso,1
+2019,ARQ.,perdio SNI,7
+2019,ARQ.,se mantiene,23
+2019,ARQ.,sube nivel,1
+2019,BIOL.,primer ingreso,4
+2019,BIOL.,perdio SNI,19
+2019,BIOL.,reingreso,8
+2019,BIOL.,se mantiene,146
+2019,BIOL.,sube nivel,13
+2019,CP.,primer ingreso,2
+2019,CP.,perdio SNI,1
+2019,CP.,se mantiene,5
+2019,DR.,primer ingreso,2953
+2019,DR.,perdio SNI,1118
+2019,DR.,reingreso,317
+2019,DR.,baja nivel,66
+2019,DR.,se mantiene,15266
+2019,DR.,sube nivel,793
+2019,DRA.,primer ingreso,225
+2019,DRA.,perdio SNI,651
+2019,DRA.,reingreso,164
+2019,DRA.,baja nivel,23
+2019,DRA.,se mantiene,7492
+2019,DRA.,sube nivel,388
+2019,Especialidad,perdio SNI,1
+2019,ING.,primer ingreso,5
+2019,ING.,perdio SNI,16
+2019,ING.,reingreso,3
+2019,ING.,baja nivel,1
+2019,ING.,se mantiene,93
+2019,ING.,sube nivel,1
+2019,LIC.,primer ingreso,8
+2019,LIC.,perdio SNI,12
+2019,LIC.,se mantiene,175
+2019,LIC.,sube nivel,9
+2019,M. EN A,se mantiene,1
+2019,M. EN B.,se mantiene,1
+2019,M. EN C,perdio SNI,1
+2019,M. EN C,se mantiene,9
+2019,M. EN C.,perdio SNI,1
+2019,M. EN C.,reingreso,3
+2019,M. EN C.,se mantiene,30
+2019,M. EN C.,sube nivel,3
+2019,M. EN I,se mantiene,1
+2019,M. EN I.,se mantiene,1
+2019,M.EN C.,primer ingreso,37
+2019,M.EN C.,perdio SNI,61
+2019,M.EN C.,reingreso,25
+2019,M.EN C.,baja nivel,1
+2019,M.EN C.,se mantiene,777
+2019,M.EN C.,sube nivel,43
+2019,M.I.Q.,se mantiene,1
+2019,MAT.,se mantiene,1
+2019,MED,primer ingreso,2
+2019,MED,perdio SNI,18
+2019,MED,reingreso,2
+2019,MED,baja nivel,1
+2019,MED,se mantiene,228
+2019,MED,sube nivel,15
+2019,MED.,perdio SNI,1
+2019,MED.,se mantiene,21
+2019,MTR,primer ingreso,17
+2019,MTR,perdio SNI,26
+2019,MTR,reingreso,9
+2019,MTR,baja nivel,1
+2019,MTR,se mantiene,249
+2019,MTR,sube nivel,18
+2019,MTRA.,primer ingreso,34
+2019,MTRA.,perdio SNI,20
+2019,MTRA.,reingreso,5
+2019,MTRA.,baja nivel,2
+2019,MTRA.,se mantiene,235
+2019,MTRA.,sube nivel,11
+2019,MTRO.,primer ingreso,33
+2019,MTRO.,perdio SNI,25
+2019,MTRO.,reingreso,9
+2019,MTRO.,se mantiene,395
+2019,MTRO.,sube nivel,16
+2019,Maestría,primer ingreso,32
+2019,Maestría,perdio SNI,1
+2019,Maestría,se mantiene,1
+2019,QUIM.,perdio SNI,9
+2019,QUIM.,reingreso,5
+2019,QUIM.,se mantiene,83
+2019,QUIM.,sube nivel,5
+2020,ARQ.,perdio SNI,25
+2020,BIOL.,primer ingreso,1
+2020,BIOL.,perdio SNI,159
+2020,BIOL.,reingreso,2
+2020,BIOL.,se mantiene,12
+2020,BIOQ.,reingreso,1
+2020,CP.,perdio SNI,7
+2020,DR.,primer ingreso,2106
+2020,DR.,perdio SNI,3240
+2020,DR.,reingreso,1700
+2020,DR.,baja nivel,49
+2020,DR.,se mantiene,15254
+2020,DR.,sube nivel,852
+2020,DRA.,primer ingreso,1572
+2020,DRA.,perdio SNI,671
+2020,DRA.,reingreso,3023
+2020,DRA.,baja nivel,25
+2020,DRA.,se mantiene,7147
+2020,DRA.,sube nivel,449
+2020,FIS.,reingreso,3
+2020,ING.,perdio SNI,100
+2020,ING.,se mantiene,3
+2020,LIC.,perdio SNI,181
+2020,LIC.,reingreso,2
+2020,LIC.,se mantiene,11
+2020,M. EN A,perdio SNI,1
+2020,M. EN A.,reingreso,1
+2020,M. EN B.,perdio SNI,1
+2020,M. EN B.,reingreso,1
+2020,M. EN C,perdio SNI,9
+2020,M. EN C.,primer ingreso,73
+2020,M. EN C.,perdio SNI,19
+2020,M. EN C.,reingreso,446
+2020,M. EN C.,baja nivel,1
+2020,M. EN C.,se mantiene,16
+2020,M. EN I,perdio SNI,1
+2020,M. EN I.,perdio SNI,1
+2020,M. EN I.,reingreso,2
+2020,M.EN C.,perdio SNI,883
+2020,M.I.Q.,perdio SNI,1
+2020,MAT.,perdio SNI,1
+2020,MED,perdio SNI,248
+2020,MED.,primer ingreso,56
+2020,MED.,perdio SNI,9
+2020,MED.,reingreso,213
+2020,MED.,se mantiene,11
+2020,MED.,sube nivel,1
+2020,MTR,perdio SNI,294
+2020,MTRA.,primer ingreso,1
+2020,MTRA.,perdio SNI,261
+2020,MTRA.,reingreso,7
+2020,MTRA.,se mantiene,26
+2020,MTRO.,primer ingreso,3
+2020,MTRO.,perdio SNI,413
+2020,MTRO.,reingreso,15
+2020,MTRO.,se mantiene,40
+2020,Maestría,perdio SNI,33
+2020,PSIC.,reingreso,1
+2020,Q.F.B.,reingreso,2
+2020,QFB.,reingreso,1
+2020,QUIM,.,reingreso,1
+2020,QUIM.,perdio SNI,83
+2020,QUIM.,reingreso,6
+2020,QUIM.,se mantiene,10
